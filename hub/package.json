@@ -1,0 +1,18 @@
+{
+  "name": "togetherjs",
+  "version": "0.4.0a",
+  "main": "server.js",
+  "description": "Collaborative help system",
+  "keywords": [],
+  "dependencies": {
+    "websocket": "^1.0.34"
+  },
+  "engines": {
+    "node": "~0.12.7",
+    "npm": "^2.11.3"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "grunt test"
+  }
+}
