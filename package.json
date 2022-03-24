@@ -8,7 +8,7 @@
     "websocket": "^1.0.34"
   },
   "engines": {
-    "node": "~0.12.7",
+    "node": "~10.13.0",
     "npm": "^2.11.3"
   },
   "scripts": {
